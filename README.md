@@ -269,9 +269,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### **Developer**
-- **Name**: Pratham Katariya
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Name**: Tanvi Konde
+- **GitHub**: [@yourusername](https://github.com/tanvikonde)
+- **Email**: kondetanvi@gmail.com
 
 ### **Issues & Bug Reports**
 Please use the [GitHub Issues](https://github.com/yourusername/deepfake-detection-system/issues) page for:
